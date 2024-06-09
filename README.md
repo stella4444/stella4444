@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stella4444
 - 🌱 I’m interested in machine learning and full-stack development!
-- 🌱 I'm currently learning how to work with NumPy, Pandas, PyTorch, ML algorithms.
+- 🌱 I'm currently learning how to work with NumPy, pandas, PyTorch, ML algorithms.
 - 🌱 I look forward to using GitHub to work on my own personal projects!
 
 <!---
