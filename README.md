@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stella4444, a student at UGA!
-- 🌱 I'm exploring different tools and platforms through personal projects to enhance my skills!
+- 🌱 I'm exploring different languages, libraries, and frameworks through personal projects to enhance my skills!
 - 🌱 I’m interested in machine learning, deep learning, and full-stack development!
 
 <!---
