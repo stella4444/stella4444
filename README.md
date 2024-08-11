@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stella4444, a student at UGA!
 - 🌱 I'm exploring different languages, libraries, and frameworks through personal projects to enhance my skills!
-- 🌱 I’m interested in machine learning, deep learning, and full-stack development!
+- 🌱 I’m interested in machine learning, data science, and full-stack development!
 
 <!---
 stella4444/stella4444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
