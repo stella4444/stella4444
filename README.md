@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stella4444, a student at UGA!
+- 👋 Hi, I’m @stella4444, a CS graduate!
 - 🌱 I'm exploring different languages, libraries, and frameworks through personal projects to improve my skills! I’m interested in machine learning, data science, and full-stack development roles!
 
 <!---
